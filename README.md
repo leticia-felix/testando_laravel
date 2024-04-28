@@ -1,2 +1,2 @@
 # testando_laravel
-testando larabel 
+testando laravel 
